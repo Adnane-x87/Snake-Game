@@ -17,4 +17,4 @@ Classic gameplay: eat the food, grow the snake, score points, and avoid crashing
 ## 📸 Screenshot
 *(Run the game, take a screenshot, and replace this with your own)*  
 ```bash
-![Snake Game Screenshot](./Snake_Game/snakegame.png.png)
+![Snake Game Screenshot](./snakegame.png)
